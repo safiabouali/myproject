@@ -26,3 +26,4 @@ Outils utilisés
 Python Jupyter Notebook Pandas NumPy Matplotlib GitHub Résultats attendus Une liste des espèces végétales observées. Un tableau descriptif des espèces. Des graphiques représentant la diversité végétale. Une comparaison entre les sites étudiés. Conclusion Ce projet permet de mieux comprendre la diversité végétale dans la région de Souk Ahras et de découvrir comment les outils numériques peuvent aider à organiser et analyser les données écologiques.
 
 Remarque : Les résultats seront complétés après la collecte et l'identification des données sur le terrain.
+☘️
